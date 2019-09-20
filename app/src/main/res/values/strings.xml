@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MADA_USE2016OCT0004</string>
+    <string name="hint">hint</string>
+    <array name="index_no_first">
+        <item>USE2016OCT</item>
+        <item>UIT2016OCT</item>
+        <item>USE2017FEB</item>
+        <item>UIT2017FEB</item>
+    </array>
+</resources>
